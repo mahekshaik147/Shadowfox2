@@ -85,6 +85,3 @@ streamlit run app.py
 
 ---
 
-## 👩‍💻 Author
-
-Mahek Sultana
